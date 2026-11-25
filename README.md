@@ -66,7 +66,7 @@
 
 AI Commander provides remote shell and long‑running job execution for AI agents on user‑owned machines. It supports Claude, ChatGPT, Codex, Grok and other models, offering outbound‑only connections, encrypted traffic, and file transfer capabilities. Users can install agents on macOS, Windows or Linux, obtain a session code, and let the AI run commands, scripts, or training jobs without exposing inbound ports. Free tier supports up to 10 machines; paid plans add more machines and file transfer.
 
-**Areas:** AI · RemoteShell · MachineLearning · Automation · Cloud
+**Areas:** Artificial Intelligence · Remote Shell · Machine Learning · Automation · Cloud
 
 ## AI Commander on APIs.io
 
@@ -84,15 +84,15 @@ Each property below is a page on APIs.io carrying the machine-readable artifact 
 
 Authentication, trust centre, and vulnerability disclosure.
 
-- [Aicommander Dev Authentication](https://apis.io/security/aicommander-dev/aicommander-dev-authentication/)
-- [Aicommander Dev Domain Security](https://apis.io/security/aicommander-dev/aicommander-dev-domain-security/)
-- [Aicommander Dev Vulnerability Disclosure](https://apis.io/security/aicommander-dev/aicommander-dev-vulnerability-disclosure/)
+- [AI Commander Authentication](https://apis.io/security/aicommander-dev/aicommander-dev-authentication/)
+- [AI Commander Domain Security](https://apis.io/security/aicommander-dev/aicommander-dev-domain-security/)
+- [AI Commander Vulnerability Disclosure](https://apis.io/security/aicommander-dev/aicommander-dev-vulnerability-disclosure/)
 
 #### Plans and pricing (1)
 
 Published plans, tiers and prices.
 
-- [Aicommander Dev Plans Pricing](https://apis.io/plans/aicommander-dev/aicommander-dev-plans-pricing/)
+- [AI Commander Plans Pricing](https://apis.io/plans/aicommander-dev/aicommander-dev-plans-pricing/)
 
 ## Where to find this API
 
@@ -109,7 +109,50 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-Not yet rated. See [apis.io/providers/aicommander-dev/](https://apis.io/providers/aicommander-dev/).
+**Kin Score 28.7** — thin · rubric 0.28.1 · scored 2026-11-21
+
+| Facet | Score |
+|---|---|
+| Discoverability | 83.9 |
+| Contract quality | 0.0 |
+| Contract governance | 4.5 |
+| Operational transparency | 23.8 |
+| Developer ergonomics | 38.1 |
+| Access clarity | 38.3 |
+
+**Agent readiness 18.3** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | served (partial credit) |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+| MCP Tool Quality | na |
+| Onboarding Descriptor | — |
+| Dns Aid Index | na |
+| Markdown Negotiation | na |
+
+**Regulatory alignment 24.5** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/aicommander-dev/](https://apis.io/providers/aicommander-dev/).
 
 ## How this profile is made
 
